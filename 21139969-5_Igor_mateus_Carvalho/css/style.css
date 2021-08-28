@@ -1,0 +1,36 @@
+header{
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(94, 50, 19);
+    text-align: center;
+}
+nav{
+    text-align: left;
+}
+h1{
+    color: chocolate;
+    font-size: 2em;
+}
+h2{
+    font-size: 3em;
+    color: rgb(73, 58, 7);
+}
+body{
+    background-color: rgb(241, 238, 210);
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5em;
+    color: rgb(109, 70, 44);
+}
+a{
+    color: rgb(119, 104, 36);
+    font-weight: bolder;
+}
+div{
+    background-color: rgb(141, 86, 24);
+    color: rgb(255, 255, 255);
+    border-radius: 2%;
+    text-align: center;
+   
+}
